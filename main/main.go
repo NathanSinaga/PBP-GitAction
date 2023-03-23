@@ -1,11 +1,6 @@
 package main
 
 
-import (
-  "fmt" 
-)
-
-
 func main() {
-  fmt.Println("Hello World")
+  ID int := 10
 }
